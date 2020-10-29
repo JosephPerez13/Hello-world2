@@ -1,2 +1,3 @@
 # Hello-world2
-Just another Hello world Repository
+My name is Joseph and I Like Hunter x Hunter. 
+Welcome to GitHub
